@@ -41,6 +41,7 @@ EIP712CoordinatorTest:testCannotDeliverEIP712SubscriptionWhereGasLimitTooLow() (
 EIP712CoordinatorTest:testCannotUseValidDelegatedSubscriptionFromOldSigner() (gas: 48168)
 EIP712CoordinatorTest:testDeliverReducedGasCostSubscriptionCachedSubscription() (gas: 501991)
 EIP712CoordinatorTest:testFuzzCannotCreateDelegatedSubscriptionWhereSignatureMismatch(uint256) (runs: 256, μ: 43249, ~: 43249)
+//////PATATES//////
 ManagerTest:testActivateNode() (gas: 54843)
 ManagerTest:testActivateNodeMustReadministerCooldownIfReactivating() (gas: 86779)
 ManagerTest:testCanCallOnlyActiveNodeFnAsActiveNode() (gas: 48772)
